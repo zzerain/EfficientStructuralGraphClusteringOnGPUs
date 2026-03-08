@@ -1,4 +1,4 @@
-# AccTD
+# GPUSCAN++
 
 This repository contains the source code of the paper "GPUSCAN++: Efficient Structural Graph
 Clustering on GPUs" by 
@@ -46,4 +46,5 @@ Then we run as follows
 
 ```zsh
 ./GPUScan folder_path epsilon miu
+
 ```
